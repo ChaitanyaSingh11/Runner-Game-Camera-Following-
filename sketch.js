@@ -30,7 +30,7 @@ function preload() {
     platformImg = loadImage("Assets/Platform.png");
     // Loading Obstacles Images
     crateimg = loadImage("Assets/Crate.png");
-    grave = loadImage("Assets/Tombstone (1).png");
+    grave = loadImage("Assets/TombStone (1).png");
     skeletonimg = loadImage("Assets/Skeleton.png");
     // loading score image
     scoreImg = loadImage("Assets/Idle (1).png");
